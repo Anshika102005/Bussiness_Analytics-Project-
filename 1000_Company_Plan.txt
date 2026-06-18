@@ -1,0 +1,103 @@
+
+1000 COMPANY SOURCING FUNNEL PLAN
+
+Goal:
+Identify 1,000 ICP-qualified companies within one month.
+
+PHASE 1: SOURCING & HYGIENE
+
+Sources:
+- ACMA
+- IDMA
+- Pharmexcil
+- IndiaMART
+- Trade Show Exhibitor Lists (CPhI, Auto Expo)
+- Industrial Cluster Directories
+
+Target Universe:
+10,000 Companies
+
+Actions:
+- Scrape directories
+- Merge datasets
+- Remove duplicates
+- Filter out:
+  * Revenue > ₹500 Cr
+  * Trading Companies
+  * Government / PSU Companies
+
+Expected Output:
+5,000 Viable Companies
+
+
+PHASE 2: AI ENRICHMENT
+
+Tools:
+- Python Scraper
+- Claude API
+- GPT API
+
+Data Collected:
+- About Us
+- Management
+- Product Information
+- Certifications
+
+Signals:
+- USFDA
+- EU-GMP
+- Patents
+- R&D Center
+- Founder Background
+- Second Generation Leadership
+
+Expected Output:
+2,000 High-Scoring Companies
+
+
+PHASE 3: HUMAN QUALITY CHECK
+
+Actions:
+- LinkedIn Verification
+- Factory Verification
+- Website Validation
+- Missing Data Review
+
+Expected Output:
+1,000 Qualified Federer Targets
+
+
+WEEKLY TIMELINE
+
+Week 1:
+- Scraping
+- Data Collection
+- Deduplication
+
+Week 2:
+- Automation
+- AI Qualification
+- Scoring
+
+Week 3:
+- Enrichment
+- LinkedIn Research
+- Facility Verification
+
+Week 4:
+- Quality Control
+- Final Validation
+- Deliverable Preparation
+
+
+REALISTIC YIELD
+
+10,000 Raw Companies
+↓
+5,000 After Filters
+↓
+2,000 After AI Scoring
+↓
+1,200 Shortlisted
+↓
+1,000 Final Qualified Companies
